@@ -97,7 +97,6 @@
     display: flex;
 }
 .sec3 img{
-    
 }
 .sec3_2{
     margin-top: 200px;
@@ -249,10 +248,6 @@
     margin-top: 300px;
     margin-left: 100px;
 }
-.sec10 button a{
-    text-decoration: 0;
-    color: white;
-}
 .sec10{
     margin-left: 540px;
 }
@@ -260,6 +255,10 @@
     padding: 10px 35px;
     background-color: blue;
     border-radius: 20px;
+}
+.sec10 button a{
+    text-decoration: 0;
+    color: white;
 }
 
 .sec10 button:focus{
