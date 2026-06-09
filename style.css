@@ -1,7 +1,4 @@
-.sec10 button a{
-    text-decoration: 0;
-    color: white;
-}.main{
+.main{
         background-image: url(background.jpeg);
     background-position: center;
     background-repeat: no-repeat;
@@ -251,6 +248,10 @@
 .sec8-right{
     margin-top: 300px;
     margin-left: 100px;
+}
+.sec10 button a{
+    text-decoration: 0;
+    color: white;
 }
 .sec10{
     margin-left: 540px;
