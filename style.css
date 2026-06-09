@@ -1,4 +1,7 @@
-.main{
+.sec10 button a{
+    text-decoration: 0;
+    color: white;
+}.main{
         background-image: url(background.jpeg);
     background-position: center;
     background-repeat: no-repeat;
@@ -97,6 +100,7 @@
     display: flex;
 }
 .sec3 img{
+    
 }
 .sec3_2{
     margin-top: 200px;
@@ -247,4 +251,67 @@
 .sec8-right{
     margin-top: 300px;
     margin-left: 100px;
+}
+.sec10{
+    margin-left: 540px;
+}
+.sec10 button{
+    padding: 10px 35px;
+    background-color: blue;
+    border-radius: 20px;
+}
+
+.sec10 button:focus{
+    background-color: gray;
+}
+
+.sec11{
+    display: flex;
+    margin-left: 457px;
+    margin-top: 30px;
+}
+.sec11-left{
+    border: solid 1px black;
+    width: 200px;
+    border-radius: 20px;
+    background-color: lightgray;
+    border: 0;
+}
+.sec11-left span{
+    display: inline;
+}
+.sec11-left h1{
+    display: inline;
+}
+.sec11-left h3{}
+.sec11-left p{}
+.sec11-left button{
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
+
+.sec11-right{
+    border: solid 1px black;
+    width: 200px;
+    border-radius: 20px;
+    background-color: lightgray;
+    border: 0;
+    margin-left: 5px;
+}
+.sec11-right span{
+    display: block;
+    color: blue;
+}
+.sec11-right h1{
+    display: inline;
+}
+.sec11-right h3{}
+.sec11-right p{}
+.sec11-right button{
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
 }
